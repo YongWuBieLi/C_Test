@@ -50,3 +50,5 @@ int binsearch(int x, int v[], int n) {
 	}
 	return 0;
 }
+
+//折半查找 二分查找实现
